@@ -33,13 +33,6 @@ self.addEventListener("activate", event => {
           cacheName => !currentCaches.includes(cacheName)
         );
       })
-      // .then(cachesToDelete => {
-      //   return Promise.all(
-      //     cachesToDelete.map(cacheToDelete => {
-      //       return caches.delete(cacheToDelete);
-      //     })
-      //   );
-      // })
       .then(() => self.clients.claim())
   );
 });
