@@ -12,7 +12,7 @@
     <a href="https://github.com/marandaz/budget-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/marandaz/budget-tracker">View Demo</a>
+    <a href="https://stark-wildwood-12557.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/marandaz/budget-tracker/issues">Report Bug</a>
     ·
@@ -31,6 +31,7 @@
 
 
 ## About the Project
+As any digital user in today's world, we often fluidly move between Wifi routes or access points, between buildings or just as we're running errands on the go. It's now a standard practice that information for apps is stored, regardless of if the user is online or offline. This application captures exactly that -- a budget tracker that allows a user to hit the store and enter the dollar amount when they get to the car instead of remembering when they get home or holding up the line while on store-wifi. When back online, all information captures and updates, providing an up-to-date snapshot of financials. 
 
 
 ## Installation 
@@ -69,4 +70,5 @@ Distributed under the MIT License.
 Maranda Zwieschowsi - mrzwies@gmail.com
 
 Project Link: [https://github.com/marandaz/budget-tracker](https://github.com/marandaz/budget-tracker)
+Deployed to [Heroku](https://stark-wildwood-12557.herokuapp.com/) 
 
